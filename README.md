@@ -1,5 +1,7 @@
 Hotel Data Extraction from Hotels.ng
+
 This project is a web scraping script that extracts hotel data from the Hotels.ng website for hotels located in Abia State, Nigeria. The extracted data includes hotel names, addresses, cities, states, prices, ratings, facilities, and likes.
+
 Table of Contents
 Overview
 
